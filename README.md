@@ -1,0 +1,1 @@
+# Rewite_PJeuler_problem1-10
